@@ -1,5 +1,5 @@
 {
-  "name": "Alex-ltn/projet-3",
+  "name": "Alex-ltn/projet3",
   "version": "0.1.0",
   "type": "project",
   "description": "Projet réalisé lors d'une préparation FullStack d'OpenClassrooms, qui à pour but de créer un extranet pour un groupe bancaire.",
@@ -8,7 +8,7 @@
     "SQL",
     "Web site"
   ],
-  "homepage": "alexey-ls.com/projet-3/public/index.php",
+  "homepage": "alexey-ls.com/projet3/public/index.php",
   "license": "MIT",
   "authors": [
     {
@@ -28,7 +28,7 @@
   },
   "support": {
     "email": "alexandre.lhotelin@gmail.com",
-    "issues": "https://github.com/Alex-ltn/projet_3/issues",
-    "source": "https://github.com/Alex-ltn/projet_3"
+    "issues": "https://github.com/Alex-ltn/projet3/issues",
+    "source": "https://github.com/Alex-ltn/projet3"
   }
 }
