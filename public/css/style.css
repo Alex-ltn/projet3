@@ -1,0 +1,89 @@
+/* ---------- HEADER ---------- */
+
+header img {
+    width: 100px;
+    height: auto;
+}
+
+header h5 {
+    margin-top: 15px;
+    color: red;
+}
+
+header button {
+    margin-top: -10px;
+    margin-bottom: -20px;
+}
+
+/* ---------- AUTRES ---------- */
+
+button {
+    cursor: pointer;
+    border: none;
+    background-color: white;
+
+}
+
+li {
+    padding-right: 10px;
+}
+
+main {
+    padding-right: 3em;
+    padding-left: 3em;
+    padding-bottom: 10em;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    list-style:none;
+    margin-left:0;
+    padding-left:0;
+}
+
+main img {
+    width: 200px;
+    height: auto;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+main button[class="btn btn-link"] {
+    margin-bottom: -20px;
+    margin-top: -10px;
+    margin-right: -15px;
+}
+
+table p {
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+/* ---------- FOOTER ---------- */
+
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    position: relative;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 2em;
+    margin: 0;
+}

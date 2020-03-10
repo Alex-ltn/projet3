@@ -1,0 +1,34 @@
+{
+  "name": "Alex-ltn/projet-3",
+  "version": "0.1.0",
+  "type": "project",
+  "description": "Projet réalisé lors d'une préparation FullStack d'OpenClassrooms, qui à pour but de créer un extranet pour un groupe bancaire.",
+  "keywords": [
+    "php",
+    "SQL",
+    "Web site"
+  ],
+  "homepage": "alexey-ls.com/projet-3/public/index.php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandre LHOTELIN",
+      "email": "alexandre.lhotelin@gmail.com",
+      "homepage": "alexey-ls.com/portfolio",
+      "role": "Développeur principal"
+    }
+  ],
+  "require": {
+    "php": "7.2"
+  },
+  "config": {
+    "platform": {
+      "php": "7.2"
+    }
+  },
+  "support": {
+    "email": "alexandre.lhotelin@gmail.com",
+    "issues": "https://github.com/Alex-ltn/projet_3/issues",
+    "source": "https://github.com/Alex-ltn/projet_3"
+  }
+}
